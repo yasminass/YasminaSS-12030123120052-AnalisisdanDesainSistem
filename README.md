@@ -29,4 +29,5 @@ e. Tugas pembuatan Diagram Use Case dari draw.io ![Diagram Use Case Plant UML](h
   ERD![3  ERD](https://github.com/user-attachments/assets/00d1a759-321c-41bb-8c29-e02607b7b3f9). 
 
 
-  g. Tugas pembuatan Chatbot perpustakaan dengan Chatling [Chatbot Perpustakaan [Chatling].pdf](https://github.com/user-attachments/files/18033427/Chatbot.Perpustakaan.Chatling.pdf)![Screenshot 2024-12-06 132256](https://github.com/user-attachments/assets/8d954847-04bf-490a-bda0-03f28685d517)
+  g. Tugas pembuatan Chatbot perpustakaan dengan Chatling untuk UAS https://drive.google.com/file/d/1_aNN8z4ZawFLWTxZqjdMmQZc6NrkXbeP/view?usp=drive_link
+  
